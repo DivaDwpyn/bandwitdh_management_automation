@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Monitoring Trafik MikroTik</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/4.0.1/socket.io.js"></script>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f4f4f4;
+            padding: 20px;
+        }
+
+        h1 {
+            color: #333;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+            margin-bottom: 20px;
+        }
+
+        canvas {
+            max-width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Monitoring Trafik MikroTik (ether4)</h1>
+        <p><strong>RX Speed:</strong> <span id="rx">0</span> </p>
+        <p><strong>TX Speed:</strong> <span id="tx">0</span></p>
+        <p><strong>Jumlah Perangkat Terhubung (DHCP Lease):</strong> <span id="dhcp">0</span> perangkat</p>
+
+        <h2>Real-Time Traffic</h2>
+        <canvas id="trafficChart"></canvas>
+    </div>
+
+    <div class="container">
+        <h2>Rata-rata Trafik per Menit</h2>
+        <p><strong>RX (Avg/Min):</strong> <span id="avg_rx">0</span></p>
+        <p><strong>TX (Avg/Min):</strong> <span id="avg_tx">0</span></p>
+        <canvas id="avgTrafficChart"></canvas>
+    </div>
+
+    <script>
+        var socket = io.connect("http://" + document.domain + ":" + location.port);
+
+        var trafficChart = new Chart(document.getElementById("trafficChart").getContext("2d"), {
+            type: "line",
+            data: {
+                labels: [],
+                datasets: [
+                    {
+                        label: "RX Speed (Mbps)",
+                        borderColor: "blue",
+                        data: [],
+                        fill: false
+                    },
+                    {
+                        label: "TX Speed (Mbps)",
+                        borderColor: "red",
+                        data: [],
+                        fill: false
+                    }
+                ]
+            },
+            options: {
+                responsive: true,
+                scales: {
+                    x: { title: { display: true, text: "Waktu" } },
+                    y: { title: { display: true, text: "Kecepatan (Mbps)" }, beginAtZero: true }
+                }
+            }
+        });
+
+        var avgTrafficChart = new Chart(document.getElementById("avgTrafficChart").getContext("2d"), {
+            type: "bar",
+            data: {
+                labels: ["Rata-rata per Menit"],
+                datasets: [
+                    {
+                        label: "Download (Mbps)",
+                        backgroundColor: "blue",
+                        data: [0]
+                    },
+                    {
+                        label: "Upload (Mbps)",
+                        backgroundColor: "red",
+                        data: [0]
+                    }
+                ]
+            },
+            options: {
+                responsive: true,
+                scales: {
+                    y: { beginAtZero: true }
+                }
+            }
+        });
+
+        socket.on("update_traffic", function (data) {
+            var now = new Date().toLocaleTimeString();
+
+            document.getElementById("rx").innerText = (data.rx / 1_000_000).toFixed(2) + " Mbps";
+            document.getElementById("tx").innerText = (data.tx / 1_000_000).toFixed(2) + " Mbps";
+            document.getElementById("avg_rx").innerText = (data.avg_rx / 1_000_000).toFixed(2) + " Mbps";
+            document.getElementById("avg_tx").innerText = (data.avg_tx / 1_000_000).toFixed(2) + " Mbps";
+            document.getElementById("dhcp").innerText = data.dhcp;
+
+            if (trafficChart.data.labels.length > 20) {
+                trafficChart.data.labels.shift();
+                trafficChart.data.datasets[0].data.shift();
+                trafficChart.data.datasets[1].data.shift();
+            }
+
+            trafficChart.data.labels.push(now);
+trafficChart.data.datasets[0].data.push((data.rx / 1_000_000).toFixed(2));
+trafficChart.data.datasets[1].data.push((data.tx / 1_000_000).toFixed(2));
+
+            trafficChart.update();
+
+avgTrafficChart.data.datasets[0].data = [(data.avg_rx / 1_000_000).toFixed(2)];
+avgTrafficChart.data.datasets[1].data = [(data.avg_tx / 1_000_000).toFixed(2)];
+
+            avgTrafficChart.update();
+        });
+    </script>
+</body>
+</html>
