@@ -1,0 +1,951 @@
+2025-05-21 22:30:12,168 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:12,568 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:12,585 - __main__ - INFO - Berhasil koneksi ke MikroTik!
+2025-05-21 22:30:12,585 - __main__ - INFO - Output dari MikroTik:
+Flags: D - dynamic, X - disabled, R - running, S - slave 
+ #     NAME                                TYPE       ACTUAL-MTU L2MTU
+ 0  R  ether1                              ether            1500  1598
+ 1     ether2                              ether            1500  1598
+ 2     ether3                              ether            1500  1598
+ 3  R  ether4                              ether            1500  1598
+ 4     ether5                              ether            1500  1598
+
+
+2025-05-21 22:30:12,594 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:12,695 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5100
+ * Running on http://10.5.51.252:5100
+2025-05-21 22:30:12,695 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-05-21 22:30:12,695 - werkzeug - INFO -  * Restarting with stat
+2025-05-21 22:30:12,939 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:13,019 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:13,041 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:13,613 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:13,659 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:13,706 - __main__ - INFO - Berhasil koneksi ke MikroTik!
+2025-05-21 22:30:13,706 - __main__ - INFO - Output dari MikroTik:
+Flags: D - dynamic, X - disabled, R - running, S - slave 
+ #     NAME                                TYPE       ACTUAL-MTU L2MTU
+ 0  R  ether1                              ether            1500  1598
+ 1     ether2                              ether            1500  1598
+ 2     ether3                              ether            1500  1598
+ 3  R  ether4                              ether            1500  1598
+ 4     ether5                              ether            1500  1598
+
+
+2025-05-21 22:30:13,713 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:13,728 - werkzeug - WARNING -  * Debugger is active!
+2025-05-21 22:30:13,739 - werkzeug - INFO -  * Debugger PIN: 303-401-799
+2025-05-21 22:30:14,017 - werkzeug - INFO - 10.5.51.252 - - [21/May/2025 22:30:14] "GET /socket.io/?EIO=4&transport=polling&t=PRpG8Jh HTTP/1.1" 200 -
+2025-05-21 22:30:14,110 - __main__ - INFO - Client terhubung!
+2025-05-21 22:30:14,111 - werkzeug - INFO - 10.5.51.252 - - [21/May/2025 22:30:14] "POST /socket.io/?EIO=4&transport=polling&t=PRpG8L9&sid=slq3chDFq0N3hhy6AAAA HTTP/1.1" 200 -
+2025-05-21 22:30:14,114 - werkzeug - INFO - 10.5.51.252 - - [21/May/2025 22:30:14] "GET /socket.io/?EIO=4&transport=polling&t=PRpG8LV&sid=slq3chDFq0N3hhy6AAAA HTTP/1.1" 200 -
+2025-05-21 22:30:14,120 - werkzeug - INFO - 10.5.51.252 - - [21/May/2025 22:30:14] "GET /socket.io/?EIO=4&transport=polling&t=PRpG8Ld&sid=slq3chDFq0N3hhy6AAAA HTTP/1.1" 200 -
+2025-05-21 22:30:14,155 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:14,202 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:14,527 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:14,528 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:14,553 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:15,098 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:15,148 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:15,148 - __main__ - INFO - RX: 0.64 Mbps | TX: 5.10 Mbps | AVG RX: 0.64 Mbps | AVG TX: 5.10 Mbps | DHCP: 7 perangkat
+2025-05-21 22:30:15,409 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:15,857 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:15,890 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:16,322 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:16,323 - __main__ - INFO - RX: 0.11 Mbps | TX: 0.55 Mbps | AVG RX: 0.11 Mbps | AVG TX: 0.55 Mbps | DHCP: 7 perangkat
+2025-05-21 22:30:16,347 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:16,778 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:17,049 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:17,404 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:17,431 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:17,441 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:18,047 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:18,098 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:18,099 - __main__ - INFO - RX: 0.16 Mbps | TX: 0.63 Mbps | AVG RX: 0.40 Mbps | AVG TX: 2.87 Mbps | DHCP: 7 perangkat
+2025-05-21 22:30:18,368 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:18,789 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:18,820 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:19,185 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:19,187 - __main__ - INFO - RX: 0.16 Mbps | TX: 0.68 Mbps | AVG RX: 0.14 Mbps | AVG TX: 0.62 Mbps | DHCP: 7 perangkat
+2025-05-21 22:30:19,206 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:19,567 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:19,843 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:20,221 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:20,268 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:20,300 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:20,961 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:20,961 - __main__ - INFO - RX: 0.13 Mbps | TX: 0.45 Mbps | AVG RX: 0.31 Mbps | AVG TX: 2.06 Mbps | DHCP: 7 perangkat
+2025-05-21 22:30:21,011 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:21,348 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:21,727 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:21,764 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:22,119 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:22,119 - __main__ - INFO - RX: 0.18 Mbps | TX: 0.71 Mbps | AVG RX: 0.15 Mbps | AVG TX: 0.65 Mbps | DHCP: 7 perangkat
+2025-05-21 22:30:22,145 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:22,526 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:22,815 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:23,583 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:23,639 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:23,643 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:24,294 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:24,341 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:24,342 - __main__ - INFO - RX: 0.22 Mbps | TX: 0.60 Mbps | AVG RX: 0.28 Mbps | AVG TX: 1.70 Mbps | DHCP: 7 perangkat
+2025-05-21 22:30:24,626 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:25,012 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:25,038 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:25,392 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:25,392 - __main__ - INFO - RX: 0.15 Mbps | TX: 0.63 Mbps | AVG RX: 0.15 Mbps | AVG TX: 0.64 Mbps | DHCP: 7 perangkat
+2025-05-21 22:30:25,477 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:25,591 - werkzeug - INFO - 10.5.51.252 - - [21/May/2025 22:30:25] "GET / HTTP/1.1" 200 -
+2025-05-21 22:30:25,888 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:26,210 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:26,622 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:26,663 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:26,663 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:27,013 - werkzeug - INFO - 10.5.51.252 - - [21/May/2025 22:30:27] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-05-21 22:30:27,358 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:27,405 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:27,407 - __main__ - INFO - RX: 0.12 Mbps | TX: 0.61 Mbps | AVG RX: 0.25 Mbps | AVG TX: 1.48 Mbps | DHCP: 7 perangkat
+2025-05-21 22:30:27,678 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:28,101 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:28,140 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:28,531 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:28,532 - __main__ - INFO - RX: 0.13 Mbps | TX: 0.55 Mbps | AVG RX: 0.15 Mbps | AVG TX: 0.62 Mbps | DHCP: 7 perangkat
+2025-05-21 22:30:28,555 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:28,962 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:29,283 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:29,636 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:29,686 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:29,693 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:30,286 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:30,287 - __main__ - INFO - RX: 0.12 Mbps | TX: 0.42 Mbps | AVG RX: 0.23 Mbps | AVG TX: 1.30 Mbps | DHCP: 7 perangkat
+2025-05-21 22:30:30,334 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:30,641 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:31,050 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:31,073 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:31,460 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:31,461 - __main__ - INFO - RX: 0.15 Mbps | TX: 0.40 Mbps | AVG RX: 0.15 Mbps | AVG TX: 0.59 Mbps | DHCP: 7 perangkat
+2025-05-21 22:30:31,513 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:31,905 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:32,231 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:32,591 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:32,617 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:32,627 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:33,210 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:33,258 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:33,259 - __main__ - INFO - RX: 0.21 Mbps | TX: 0.84 Mbps | AVG RX: 0.23 Mbps | AVG TX: 1.24 Mbps | DHCP: 0 perangkat
+2025-05-21 22:30:33,579 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:33,983 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:34,032 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:34,468 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:34,468 - __main__ - INFO - RX: 0.09 Mbps | TX: 0.44 Mbps | AVG RX: 0.14 Mbps | AVG TX: 0.56 Mbps | DHCP: 7 perangkat
+2025-05-21 22:30:34,510 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:34,944 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:35,287 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:35,642 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:35,668 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:35,676 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:36,277 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:36,322 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:36,322 - __main__ - INFO - RX: 0.25 Mbps | TX: 0.57 Mbps | AVG RX: 0.23 Mbps | AVG TX: 1.15 Mbps | DHCP: 0 perangkat
+2025-05-21 22:30:36,616 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:36,972 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:36,998 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:37,357 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:37,358 - __main__ - INFO - RX: 0.25 Mbps | TX: 3.70 Mbps | AVG RX: 0.15 Mbps | AVG TX: 0.96 Mbps | DHCP: 7 perangkat
+2025-05-21 22:30:37,433 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:37,784 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:38,090 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:38,449 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:38,479 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:38,497 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:39,200 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:39,246 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:39,247 - __main__ - INFO - RX: 0.00 Mbps | TX: 0.00 Mbps | AVG RX: 0.20 Mbps | AVG TX: 1.02 Mbps | DHCP: 7 perangkat
+2025-05-21 22:30:39,549 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:39,903 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:39,940 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:40,345 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:40,347 - __main__ - INFO - RX: 0.19 Mbps | TX: 0.66 Mbps | AVG RX: 0.16 Mbps | AVG TX: 0.92 Mbps | DHCP: 7 perangkat
+2025-05-21 22:30:40,410 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:40,808 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:41,167 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:41,525 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:41,566 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:41,566 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:42,159 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:42,160 - __main__ - INFO - RX: 0.14 Mbps | TX: 0.00 Mbps | AVG RX: 0.20 Mbps | AVG TX: 0.92 Mbps | DHCP: 7 perangkat
+2025-05-21 22:30:42,208 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:42,502 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:42,957 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:43,005 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:43,464 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:43,465 - __main__ - INFO - RX: 0.10 Mbps | TX: 0.45 Mbps | AVG RX: 0.15 Mbps | AVG TX: 0.88 Mbps | DHCP: 7 perangkat
+2025-05-21 22:30:43,547 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:43,952 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:44,278 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:44,666 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:44,700 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:44,701 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:45,330 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:45,331 - __main__ - INFO - RX: 0.14 Mbps | TX: 0.58 Mbps | AVG RX: 0.19 Mbps | AVG TX: 0.89 Mbps | DHCP: 7 perangkat
+2025-05-21 22:30:45,383 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:45,722 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:46,122 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:46,147 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:46,498 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:46,499 - __main__ - INFO - RX: 0.16 Mbps | TX: 2.70 Mbps | AVG RX: 0.15 Mbps | AVG TX: 1.04 Mbps | DHCP: 7 perangkat
+2025-05-21 22:30:46,573 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:46,919 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:47,221 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:47,571 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:47,603 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:47,606 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:48,177 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:48,178 - __main__ - INFO - RX: 0.09 Mbps | TX: 0.30 Mbps | AVG RX: 0.18 Mbps | AVG TX: 0.84 Mbps | DHCP: 7 perangkat
+2025-05-21 22:30:48,234 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:48,520 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:48,877 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:48,903 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:49,281 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:49,282 - __main__ - INFO - RX: 0.10 Mbps | TX: 0.25 Mbps | AVG RX: 0.15 Mbps | AVG TX: 0.98 Mbps | DHCP: 7 perangkat
+2025-05-21 22:30:49,305 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:49,665 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:49,945 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:50,325 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:50,357 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:50,407 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:50,959 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:50,960 - __main__ - INFO - RX: 0.24 Mbps | TX: 0.43 Mbps | AVG RX: 0.19 Mbps | AVG TX: 0.81 Mbps | DHCP: 7 perangkat
+2025-05-21 22:30:51,008 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:51,318 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:51,679 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:51,706 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:52,060 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:52,061 - __main__ - INFO - RX: 0.32 Mbps | TX: 3.50 Mbps | AVG RX: 0.16 Mbps | AVG TX: 1.17 Mbps | DHCP: 7 perangkat
+2025-05-21 22:30:52,092 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:52,477 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:52,774 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:53,125 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:53,148 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:53,186 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:53,748 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:53,749 - __main__ - INFO - RX: 0.20 Mbps | TX: 0.72 Mbps | AVG RX: 0.19 Mbps | AVG TX: 0.80 Mbps | DHCP: 7 perangkat
+2025-05-21 22:30:53,795 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:54,090 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:54,468 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:54,492 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:54,843 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:54,844 - __main__ - INFO - RX: 0.18 Mbps | TX: 0.70 Mbps | AVG RX: 0.16 Mbps | AVG TX: 1.14 Mbps | DHCP: 7 perangkat
+2025-05-21 22:30:54,867 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:55,232 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:55,534 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:55,886 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:55,919 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:55,962 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:56,680 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:56,681 - __main__ - INFO - RX: 0.16 Mbps | TX: 0.63 Mbps | AVG RX: 0.19 Mbps | AVG TX: 0.79 Mbps | DHCP: 7 perangkat
+2025-05-21 22:30:56,725 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:57,025 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:57,485 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:57,513 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:57,874 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:57,875 - __main__ - INFO - RX: 0.10 Mbps | TX: 0.39 Mbps | AVG RX: 0.16 Mbps | AVG TX: 1.09 Mbps | DHCP: 7 perangkat
+2025-05-21 22:30:57,897 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:58,283 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:58,586 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:58,947 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:58,982 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:58,998 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:30:59,617 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:59,674 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:30:59,674 - __main__ - INFO - RX: 0.18 Mbps | TX: 3.70 Mbps | AVG RX: 0.19 Mbps | AVG TX: 0.97 Mbps | DHCP: 7 perangkat
+2025-05-21 22:30:59,968 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:00,359 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:00,390 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:00,796 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:00,797 - __main__ - INFO - RX: 0.13 Mbps | TX: 0.00 Mbps | AVG RX: 0.16 Mbps | AVG TX: 1.02 Mbps | DHCP: 7 perangkat
+2025-05-21 22:31:00,845 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:01,234 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:01,570 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:01,968 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:01,992 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:02,347 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:02,410 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:02,410 - __main__ - INFO - RX: 0.15 Mbps | TX: 0.91 Mbps | AVG RX: 0.18 Mbps | AVG TX: 0.97 Mbps | DHCP: 7 perangkat
+2025-05-21 22:31:02,766 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:03,055 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:03,407 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:03,441 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:03,757 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:04,100 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:04,101 - __main__ - INFO - RX: 0.39 Mbps | TX: 0.00 Mbps | AVG RX: 0.17 Mbps | AVG TX: 0.96 Mbps | DHCP: 7 perangkat
+2025-05-21 22:31:04,159 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:04,482 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:04,900 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:04,938 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:05,321 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:05,322 - __main__ - INFO - RX: 0.12 Mbps | TX: 2.00 Mbps | AVG RX: 0.18 Mbps | AVG TX: 1.03 Mbps | DHCP: 7 perangkat
+2025-05-21 22:31:05,343 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:05,718 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:06,010 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:06,395 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:06,446 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:06,446 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:07,115 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:07,162 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:07,163 - __main__ - INFO - RX: 0.11 Mbps | TX: 0.31 Mbps | AVG RX: 0.17 Mbps | AVG TX: 0.92 Mbps | DHCP: 7 perangkat
+2025-05-21 22:31:07,487 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:08,065 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:08,104 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:08,472 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:08,472 - __main__ - INFO - RX: 0.12 Mbps | TX: 0.32 Mbps | AVG RX: 0.18 Mbps | AVG TX: 0.99 Mbps | DHCP: 7 perangkat
+2025-05-21 22:31:08,496 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:08,952 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:09,273 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:09,676 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:09,724 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:09,724 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:10,375 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:10,376 - __main__ - INFO - RX: 0.18 Mbps | TX: 0.31 Mbps | AVG RX: 0.17 Mbps | AVG TX: 0.89 Mbps | DHCP: 7 perangkat
+2025-05-21 22:31:10,426 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:10,705 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:11,061 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:11,087 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:11,459 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:11,459 - __main__ - INFO - RX: 0.08 Mbps | TX: 0.20 Mbps | AVG RX: 0.17 Mbps | AVG TX: 0.95 Mbps | DHCP: 7 perangkat
+2025-05-21 22:31:11,481 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:11,921 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:12,240 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:12,640 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:12,670 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:12,676 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:13,253 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:13,299 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:13,300 - __main__ - INFO - RX: 0.10 Mbps | TX: 0.28 Mbps | AVG RX: 0.16 Mbps | AVG TX: 0.86 Mbps | DHCP: 7 perangkat
+2025-05-21 22:31:13,558 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:13,917 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:13,938 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:14,299 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:14,299 - __main__ - INFO - RX: 0.10 Mbps | TX: 0.00 Mbps | AVG RX: 0.17 Mbps | AVG TX: 0.91 Mbps | DHCP: 7 perangkat
+2025-05-21 22:31:14,383 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:14,743 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:15,026 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:15,401 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:15,423 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:15,436 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:16,022 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:16,073 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:16,074 - __main__ - INFO - RX: 0.09 Mbps | TX: 0.27 Mbps | AVG RX: 0.16 Mbps | AVG TX: 0.83 Mbps | DHCP: 7 perangkat
+2025-05-21 22:31:16,402 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:16,801 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:16,824 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:17,208 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:17,208 - __main__ - INFO - RX: 0.17 Mbps | TX: 0.33 Mbps | AVG RX: 0.17 Mbps | AVG TX: 0.88 Mbps | DHCP: 7 perangkat
+2025-05-21 22:31:17,229 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:17,616 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:17,902 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:18,257 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:18,295 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:18,588 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:18,915 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:18,916 - __main__ - INFO - RX: 0.13 Mbps | TX: 0.24 Mbps | AVG RX: 0.16 Mbps | AVG TX: 0.80 Mbps | DHCP: 7 perangkat
+2025-05-21 22:31:18,967 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:19,310 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:19,802 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:19,824 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:20,181 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:20,181 - __main__ - INFO - RX: 0.22 Mbps | TX: 0.49 Mbps | AVG RX: 0.17 Mbps | AVG TX: 0.86 Mbps | DHCP: 7 perangkat
+2025-05-21 22:31:20,205 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:20,600 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:20,887 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:21,228 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:21,258 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:21,547 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:21,601 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:21,601 - __main__ - INFO - RX: 0.29 Mbps | TX: 0.29 Mbps | AVG RX: 0.16 Mbps | AVG TX: 0.78 Mbps | DHCP: 7 perangkat
+2025-05-21 22:31:21,898 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:22,186 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:22,681 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:22,709 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:22,721 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:23,319 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:23,364 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:23,364 - __main__ - INFO - RX: 0.19 Mbps | TX: 0.41 Mbps | AVG RX: 0.17 Mbps | AVG TX: 0.84 Mbps | DHCP: 7 perangkat
+2025-05-21 22:31:23,644 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:24,007 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:24,032 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:24,389 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:24,390 - __main__ - INFO - RX: 0.10 Mbps | TX: 0.29 Mbps | AVG RX: 0.16 Mbps | AVG TX: 0.76 Mbps | DHCP: 7 perangkat
+2025-05-21 22:31:24,466 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:24,818 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:25,118 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:25,479 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:25,514 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:25,515 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:26,093 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:26,093 - __main__ - INFO - RX: 0.12 Mbps | TX: 0.30 Mbps | AVG RX: 0.17 Mbps | AVG TX: 0.82 Mbps | DHCP: 7 perangkat
+2025-05-21 22:31:26,138 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:26,413 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:26,817 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:26,838 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:27,182 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:27,183 - __main__ - INFO - RX: 0.12 Mbps | TX: 2.00 Mbps | AVG RX: 0.16 Mbps | AVG TX: 0.81 Mbps | DHCP: 7 perangkat
+2025-05-21 22:31:27,206 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:27,549 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:27,823 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:28,164 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:28,193 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:28,552 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:28,552 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:28,553 - __main__ - INFO - RX: 0.07 Mbps | TX: 0.09 Mbps | AVG RX: 0.17 Mbps | AVG TX: 0.79 Mbps | DHCP: 7 perangkat
+2025-05-21 22:31:28,880 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:29,208 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:29,626 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:29,657 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:30,015 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:30,095 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:30,096 - __main__ - INFO - RX: 0.11 Mbps | TX: 0.29 Mbps | AVG RX: 0.16 Mbps | AVG TX: 0.79 Mbps | DHCP: 7 perangkat
+2025-05-21 22:31:30,470 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:30,751 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:31,117 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:31,147 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:31,195 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:31,891 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:31,891 - __main__ - INFO - RX: 0.11 Mbps | TX: 0.26 Mbps | AVG RX: 0.16 Mbps | AVG TX: 0.77 Mbps | DHCP: 7 perangkat
+2025-05-21 22:31:31,945 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:32,246 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:32,721 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:32,757 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:33,210 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:33,211 - __main__ - INFO - RX: 0.35 Mbps | TX: 2.00 Mbps | AVG RX: 0.17 Mbps | AVG TX: 0.84 Mbps | DHCP: 7 perangkat
+2025-05-21 22:31:33,232 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:33,598 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:33,861 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:34,233 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:34,278 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:34,334 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:34,949 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:34,950 - __main__ - INFO - RX: 0.06 Mbps | TX: 0.13 Mbps | AVG RX: 0.16 Mbps | AVG TX: 0.75 Mbps | DHCP: 7 perangkat
+2025-05-21 22:31:35,020 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:35,323 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:35,887 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:35,928 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:36,244 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:36,288 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:36,289 - __main__ - INFO - RX: 0.14 Mbps | TX: 0.53 Mbps | AVG RX: 0.16 Mbps | AVG TX: 0.83 Mbps | DHCP: 7 perangkat
+2025-05-21 22:31:36,606 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:36,860 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:37,331 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:37,392 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:37,445 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:38,118 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:38,120 - __main__ - INFO - RX: 0.14 Mbps | TX: 0.22 Mbps | AVG RX: 0.16 Mbps | AVG TX: 0.73 Mbps | DHCP: 7 perangkat
+2025-05-21 22:31:38,165 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:38,455 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:38,812 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:38,840 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:39,220 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:39,221 - __main__ - INFO - RX: 0.08 Mbps | TX: 0.26 Mbps | AVG RX: 0.16 Mbps | AVG TX: 0.81 Mbps | DHCP: 7 perangkat
+2025-05-21 22:31:39,241 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:39,600 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:39,877 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:40,231 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:40,263 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:40,319 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:40,867 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:40,868 - __main__ - INFO - RX: 0.14 Mbps | TX: 0.92 Mbps | AVG RX: 0.16 Mbps | AVG TX: 0.74 Mbps | DHCP: 7 perangkat
+2025-05-21 22:31:40,914 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:41,203 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:41,621 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:41,659 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:42,048 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:42,049 - __main__ - INFO - RX: 0.17 Mbps | TX: 0.90 Mbps | AVG RX: 0.16 Mbps | AVG TX: 0.81 Mbps | DHCP: 7 perangkat
+2025-05-21 22:31:42,077 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:42,541 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:42,817 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:43,176 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:43,215 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:43,216 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:43,791 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:43,839 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:43,840 - __main__ - INFO - RX: 0.23 Mbps | TX: 0.90 Mbps | AVG RX: 0.16 Mbps | AVG TX: 0.74 Mbps | DHCP: 0 perangkat
+2025-05-21 22:31:44,135 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:44,491 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:44,518 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:44,872 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:44,873 - __main__ - INFO - RX: 0.15 Mbps | TX: 0.52 Mbps | AVG RX: 0.16 Mbps | AVG TX: 0.80 Mbps | DHCP: 7 perangkat
+2025-05-21 22:31:44,945 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:45,306 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:45,584 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:45,960 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:46,000 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:46,001 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:46,705 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:46,753 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:46,753 - __main__ - INFO - RX: 0.00 Mbps | TX: 0.00 Mbps | AVG RX: 0.16 Mbps | AVG TX: 0.72 Mbps | DHCP: 7 perangkat
+2025-05-21 22:31:47,077 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:47,497 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:47,519 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:47,868 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:47,869 - __main__ - INFO - RX: 0.12 Mbps | TX: 0.66 Mbps | AVG RX: 0.16 Mbps | AVG TX: 0.80 Mbps | DHCP: 7 perangkat
+2025-05-21 22:31:47,910 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:48,309 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:48,587 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:48,960 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:48,985 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:49,036 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:49,674 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:49,675 - __main__ - INFO - RX: 0.08 Mbps | TX: 0.41 Mbps | AVG RX: 0.15 Mbps | AVG TX: 0.71 Mbps | DHCP: 7 perangkat
+2025-05-21 22:31:49,721 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:50,003 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:50,374 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:50,397 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:50,793 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:50,793 - __main__ - INFO - RX: 0.19 Mbps | TX: 0.00 Mbps | AVG RX: 0.16 Mbps | AVG TX: 0.77 Mbps | DHCP: 7 perangkat
+2025-05-21 22:31:50,830 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:51,232 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:51,544 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:51,910 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:51,951 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:51,953 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:52,546 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:52,593 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:52,594 - __main__ - INFO - RX: 0.16 Mbps | TX: 2.20 Mbps | AVG RX: 0.15 Mbps | AVG TX: 0.76 Mbps | DHCP: 7 perangkat
+2025-05-21 22:31:52,865 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:53,267 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:53,291 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:53,683 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:53,684 - __main__ - INFO - RX: 0.09 Mbps | TX: 0.53 Mbps | AVG RX: 0.16 Mbps | AVG TX: 0.76 Mbps | DHCP: 7 perangkat
+2025-05-21 22:31:53,723 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:54,114 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:54,498 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:54,860 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:54,894 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:54,904 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:55,484 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:55,530 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:55,530 - __main__ - INFO - RX: 0.40 Mbps | TX: 0.74 Mbps | AVG RX: 0.16 Mbps | AVG TX: 0.76 Mbps | DHCP: 7 perangkat
+2025-05-21 22:31:55,838 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:56,281 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:56,307 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:56,692 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:56,695 - __main__ - INFO - RX: 0.83 Mbps | TX: 0.61 Mbps | AVG RX: 0.18 Mbps | AVG TX: 0.76 Mbps | DHCP: 7 perangkat
+2025-05-21 22:31:56,731 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:57,128 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:57,425 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:57,771 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:57,804 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:57,806 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:58,406 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:58,407 - __main__ - INFO - RX: 0.19 Mbps | TX: 0.74 Mbps | AVG RX: 0.16 Mbps | AVG TX: 0.75 Mbps | DHCP: 7 perangkat
+2025-05-21 22:31:58,453 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:58,802 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:59,256 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:59,280 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:31:59,675 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:31:59,676 - __main__ - INFO - RX: 0.14 Mbps | TX: 0.35 Mbps | AVG RX: 0.18 Mbps | AVG TX: 0.75 Mbps | DHCP: 7 perangkat
+2025-05-21 22:31:59,701 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:00,055 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:00,374 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:00,739 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:00,770 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:00,799 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:01,573 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:01,574 - __main__ - INFO - RX: 0.07 Mbps | TX: 0.44 Mbps | AVG RX: 0.16 Mbps | AVG TX: 0.75 Mbps | DHCP: 7 perangkat
+2025-05-21 22:32:01,629 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:01,959 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:02,406 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:02,429 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:02,775 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:02,776 - __main__ - INFO - RX: 0.00 Mbps | TX: 0.00 Mbps | AVG RX: 0.17 Mbps | AVG TX: 0.73 Mbps | DHCP: 7 perangkat
+2025-05-21 22:32:02,798 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:03,174 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:03,482 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:03,882 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:03,916 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:03,933 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:04,677 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:04,723 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:04,724 - __main__ - INFO - RX: 0.18 Mbps | TX: 0.61 Mbps | AVG RX: 0.16 Mbps | AVG TX: 0.74 Mbps | DHCP: 7 perangkat
+2025-05-21 22:32:05,047 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:05,416 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:05,438 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:05,789 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:05,790 - __main__ - INFO - RX: 0.12 Mbps | TX: 0.36 Mbps | AVG RX: 0.17 Mbps | AVG TX: 0.72 Mbps | DHCP: 7 perangkat
+2025-05-21 22:32:05,812 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:06,192 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:06,532 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:06,931 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:06,963 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:06,963 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:07,656 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:07,702 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:07,703 - __main__ - INFO - RX: 0.22 Mbps | TX: 2.40 Mbps | AVG RX: 0.16 Mbps | AVG TX: 0.79 Mbps | DHCP: 7 perangkat
+2025-05-21 22:32:07,986 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:08,343 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:08,367 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:08,717 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:08,718 - __main__ - INFO - RX: 0.24 Mbps | TX: 2.20 Mbps | AVG RX: 0.17 Mbps | AVG TX: 0.76 Mbps | DHCP: 7 perangkat
+2025-05-21 22:32:08,798 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:09,269 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:09,610 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:10,091 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:10,123 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:10,130 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:10,793 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:10,843 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:10,844 - __main__ - INFO - RX: 0.08 Mbps | TX: 0.29 Mbps | AVG RX: 0.16 Mbps | AVG TX: 0.77 Mbps | DHCP: 7 perangkat
+2025-05-21 22:32:11,151 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:11,521 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:11,544 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:11,996 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:11,998 - __main__ - INFO - RX: 0.07 Mbps | TX: 0.10 Mbps | AVG RX: 0.17 Mbps | AVG TX: 0.74 Mbps | DHCP: 7 perangkat
+2025-05-21 22:32:12,020 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:12,459 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:12,756 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:13,102 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:13,135 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:13,150 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:13,836 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:13,882 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:13,883 - __main__ - INFO - RX: 0.07 Mbps | TX: 0.28 Mbps | AVG RX: 0.16 Mbps | AVG TX: 0.76 Mbps | DHCP: 7 perangkat
+2025-05-21 22:32:14,188 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:14,541 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:14,565 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:14,945 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:14,946 - __main__ - INFO - RX: 0.22 Mbps | TX: 2.20 Mbps | AVG RX: 0.17 Mbps | AVG TX: 0.78 Mbps | DHCP: 7 perangkat
+2025-05-21 22:32:15,018 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:15,370 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:15,658 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:16,007 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:16,055 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:16,075 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:16,662 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:16,662 - __main__ - INFO - RX: 0.19 Mbps | TX: 2.10 Mbps | AVG RX: 0.16 Mbps | AVG TX: 0.79 Mbps | DHCP: 7 perangkat
+2025-05-21 22:32:16,707 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:16,981 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:17,333 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:17,358 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:17,715 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:17,718 - __main__ - INFO - RX: 0.37 Mbps | TX: 2.30 Mbps | AVG RX: 0.18 Mbps | AVG TX: 0.81 Mbps | DHCP: 7 perangkat
+2025-05-21 22:32:17,798 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:18,232 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:18,563 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:18,951 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:18,994 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:19,003 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:19,613 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:19,668 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:19,668 - __main__ - INFO - RX: 0.20 Mbps | TX: 0.48 Mbps | AVG RX: 0.16 Mbps | AVG TX: 0.79 Mbps | DHCP: 7 perangkat
+2025-05-21 22:32:19,938 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:20,342 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:20,371 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:20,785 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:20,786 - __main__ - INFO - RX: 0.19 Mbps | TX: 2.10 Mbps | AVG RX: 0.18 Mbps | AVG TX: 0.84 Mbps | DHCP: 7 perangkat
+2025-05-21 22:32:20,811 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:21,240 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:21,566 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:21,927 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:21,954 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:21,963 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:22,540 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:22,585 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:22,586 - __main__ - INFO - RX: 0.07 Mbps | TX: 0.31 Mbps | AVG RX: 0.16 Mbps | AVG TX: 0.77 Mbps | DHCP: 7 perangkat
+2025-05-21 22:32:22,888 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:23,243 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:23,267 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:23,621 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:23,623 - __main__ - INFO - RX: 0.19 Mbps | TX: 3.60 Mbps | AVG RX: 0.18 Mbps | AVG TX: 0.90 Mbps | DHCP: 7 perangkat
+2025-05-21 22:32:23,698 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:24,054 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:24,355 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:24,712 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:24,748 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:24,757 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:25,329 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:25,375 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:25,375 - __main__ - INFO - RX: 0.09 Mbps | TX: 0.34 Mbps | AVG RX: 0.16 Mbps | AVG TX: 0.77 Mbps | DHCP: 7 perangkat
+2025-05-21 22:32:25,656 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:26,022 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:26,050 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:26,403 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:26,404 - __main__ - INFO - RX: 0.09 Mbps | TX: 0.30 Mbps | AVG RX: 0.18 Mbps | AVG TX: 0.89 Mbps | DHCP: 7 perangkat
+2025-05-21 22:32:26,478 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:26,840 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:27,146 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:27,532 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:27,582 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:27,582 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:28,248 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:28,298 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:28,298 - __main__ - INFO - RX: 0.00 Mbps | TX: 0.00 Mbps | AVG RX: 0.15 Mbps | AVG TX: 0.75 Mbps | DHCP: 7 perangkat
+2025-05-21 22:32:28,572 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:28,938 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:28,981 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:29,344 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:29,345 - __main__ - INFO - RX: 0.14 Mbps | TX: 0.79 Mbps | AVG RX: 0.17 Mbps | AVG TX: 0.89 Mbps | DHCP: 7 perangkat
+2025-05-21 22:32:29,418 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:29,793 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:30,076 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:30,434 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:30,469 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:30,470 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:31,060 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:31,061 - __main__ - INFO - RX: 0.18 Mbps | TX: 0.50 Mbps | AVG RX: 0.15 Mbps | AVG TX: 0.74 Mbps | DHCP: 7 perangkat
+2025-05-21 22:32:31,106 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:31,394 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:31,895 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:31,919 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:32,313 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:32,325 - __main__ - INFO - RX: 0.46 Mbps | TX: 0.63 Mbps | AVG RX: 0.18 Mbps | AVG TX: 0.88 Mbps | DHCP: 7 perangkat
+2025-05-21 22:32:32,354 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:32,861 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:33,157 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:33,520 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:33,563 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:33,563 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:34,277 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:34,279 - __main__ - INFO - RX: 0.32 Mbps | TX: 0.48 Mbps | AVG RX: 0.16 Mbps | AVG TX: 0.74 Mbps | DHCP: 7 perangkat
+2025-05-21 22:32:34,337 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:34,635 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:35,077 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:35,116 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:35,473 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:35,475 - __main__ - INFO - RX: 0.24 Mbps | TX: 0.45 Mbps | AVG RX: 0.18 Mbps | AVG TX: 0.87 Mbps | DHCP: 7 perangkat
+2025-05-21 22:32:35,497 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:35,859 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:36,150 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:36,513 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:36,550 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:36,853 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:36,912 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:36,912 - __main__ - INFO - RX: 0.10 Mbps | TX: 0.34 Mbps | AVG RX: 0.16 Mbps | AVG TX: 0.73 Mbps | DHCP: 7 perangkat
+2025-05-21 22:32:37,222 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:37,507 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:37,857 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:37,887 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:38,230 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:38,292 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:38,293 - __main__ - INFO - RX: 0.10 Mbps | TX: 0.36 Mbps | AVG RX: 0.18 Mbps | AVG TX: 0.86 Mbps | DHCP: 7 perangkat
+2025-05-21 22:32:38,708 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:39,060 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:39,435 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:39,460 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:39,475 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:40,051 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:40,098 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:40,099 - __main__ - INFO - RX: 0.14 Mbps | TX: 0.24 Mbps | AVG RX: 0.16 Mbps | AVG TX: 0.72 Mbps | DHCP: 7 perangkat
+2025-05-21 22:32:40,384 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:40,770 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:40,807 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:41,289 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:41,291 - __main__ - INFO - RX: 0.13 Mbps | TX: 0.34 Mbps | AVG RX: 0.18 Mbps | AVG TX: 0.85 Mbps | DHCP: 7 perangkat
+2025-05-21 22:32:41,313 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:41,715 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:42,080 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:42,457 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:42,496 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:42,496 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:43,171 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:43,173 - __main__ - INFO - RX: 0.19 Mbps | TX: 10.70 Mbps | AVG RX: 0.16 Mbps | AVG TX: 0.92 Mbps | DHCP: 7 perangkat
+2025-05-21 22:32:43,235 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:43,583 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:44,027 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:44,053 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:44,758 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:44,760 - __main__ - INFO - RX: 0.41 Mbps | TX: 6.80 Mbps | AVG RX: 0.18 Mbps | AVG TX: 0.97 Mbps | DHCP: 7 perangkat
+2025-05-21 22:32:44,780 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:45,145 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:45,447 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:45,798 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:45,831 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:45,885 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:46,513 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:46,516 - __main__ - INFO - RX: 0.18 Mbps | TX: 4.90 Mbps | AVG RX: 0.16 Mbps | AVG TX: 0.99 Mbps | DHCP: 7 perangkat
+2025-05-21 22:32:46,578 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:46,896 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:47,366 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:47,392 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:47,745 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:47,745 - __main__ - INFO - RX: 0.18 Mbps | TX: 2.90 Mbps | AVG RX: 0.18 Mbps | AVG TX: 1.01 Mbps | DHCP: 7 perangkat
+2025-05-21 22:32:47,768 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:48,131 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:48,420 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:48,780 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:48,818 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:48,875 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:49,615 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:49,616 - __main__ - INFO - RX: 0.07 Mbps | TX: 0.27 Mbps | AVG RX: 0.15 Mbps | AVG TX: 0.98 Mbps | DHCP: 7 perangkat
+2025-05-21 22:32:49,660 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:49,983 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:50,539 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:50,570 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:50,910 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:50,911 - __main__ - INFO - RX: 0.09 Mbps | TX: 0.12 Mbps | AVG RX: 0.18 Mbps | AVG TX: 0.99 Mbps | DHCP: 7 perangkat
+2025-05-21 22:32:50,939 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:51,450 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:51,777 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:52,168 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:52,195 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:52,230 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:52,849 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:52,850 - __main__ - INFO - RX: 0.07 Mbps | TX: 0.36 Mbps | AVG RX: 0.15 Mbps | AVG TX: 0.97 Mbps | DHCP: 7 perangkat
+2025-05-21 22:32:52,894 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:53,191 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:53,550 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:53,575 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:53,934 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:53,935 - __main__ - INFO - RX: 0.07 Mbps | TX: 0.14 Mbps | AVG RX: 0.18 Mbps | AVG TX: 0.97 Mbps | DHCP: 7 perangkat
+2025-05-21 22:32:53,959 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:54,390 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:54,691 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:55,074 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:55,116 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:55,124 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:55,733 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:55,777 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:55,778 - __main__ - INFO - RX: 0.10 Mbps | TX: 0.30 Mbps | AVG RX: 0.15 Mbps | AVG TX: 0.95 Mbps | DHCP: 7 perangkat
+2025-05-21 22:32:56,035 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:56,407 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:56,434 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:56,822 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:56,823 - __main__ - INFO - RX: 0.10 Mbps | TX: 0.13 Mbps | AVG RX: 0.18 Mbps | AVG TX: 0.96 Mbps | DHCP: 7 perangkat
+2025-05-21 22:32:56,924 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:57,421 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:57,713 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:58,084 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:58,121 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:58,128 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:58,763 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:58,818 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:58,819 - __main__ - INFO - RX: 0.08 Mbps | TX: 0.26 Mbps | AVG RX: 0.15 Mbps | AVG TX: 0.94 Mbps | DHCP: 7 perangkat
+2025-05-21 22:32:59,066 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:59,452 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:59,474 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:32:59,867 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:32:59,868 - __main__ - INFO - RX: 0.07 Mbps | TX: 0.15 Mbps | AVG RX: 0.18 Mbps | AVG TX: 0.95 Mbps | DHCP: 7 perangkat
+2025-05-21 22:32:59,968 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:33:00,401 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:33:00,706 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:33:01,043 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:33:01,077 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:33:01,082 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:33:01,709 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:33:01,710 - __main__ - INFO - RX: 0.08 Mbps | TX: 0.35 Mbps | AVG RX: 0.15 Mbps | AVG TX: 0.93 Mbps | DHCP: 7 perangkat
+2025-05-21 22:33:01,757 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:33:02,013 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:33:02,538 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:33:02,566 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:33:02,969 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:33:02,970 - __main__ - INFO - RX: 0.15 Mbps | TX: 0.20 Mbps | AVG RX: 0.18 Mbps | AVG TX: 0.93 Mbps | DHCP: 7 perangkat
+2025-05-21 22:33:02,997 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:33:03,380 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:33:03,639 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:33:03,991 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:33:04,024 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:33:04,073 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:33:04,647 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:33:04,648 - __main__ - INFO - RX: 0.10 Mbps | TX: 0.50 Mbps | AVG RX: 0.15 Mbps | AVG TX: 0.92 Mbps | DHCP: 7 perangkat
+2025-05-21 22:33:04,709 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:33:04,996 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:33:05,494 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:33:05,543 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:33:05,950 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:33:05,950 - __main__ - INFO - RX: 0.15 Mbps | TX: 0.60 Mbps | AVG RX: 0.18 Mbps | AVG TX: 0.93 Mbps | DHCP: 7 perangkat
+2025-05-21 22:33:05,973 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:33:06,438 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:33:06,695 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:33:07,045 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:33:07,079 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:33:07,080 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:33:07,714 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:33:07,715 - __main__ - INFO - RX: 0.09 Mbps | TX: 0.53 Mbps | AVG RX: 0.15 Mbps | AVG TX: 0.92 Mbps | DHCP: 7 perangkat
+2025-05-21 22:33:07,772 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:33:08,079 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:33:08,507 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:33:08,532 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:33:08,883 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:33:08,885 - __main__ - INFO - RX: 0.09 Mbps | TX: 0.40 Mbps | AVG RX: 0.17 Mbps | AVG TX: 0.92 Mbps | DHCP: 7 perangkat
+2025-05-21 22:33:08,909 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:33:09,268 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:33:09,529 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:33:09,884 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:33:09,929 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:33:09,973 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:33:10,696 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:33:10,700 - __main__ - INFO - RX: 0.12 Mbps | TX: 0.48 Mbps | AVG RX: 0.15 Mbps | AVG TX: 0.91 Mbps | DHCP: 7 perangkat
+2025-05-21 22:33:10,745 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:33:11,055 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:33:11,418 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:33:11,442 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:33:11,784 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:33:11,784 - __main__ - INFO - RX: 0.08 Mbps | TX: 0.17 Mbps | AVG RX: 0.17 Mbps | AVG TX: 0.90 Mbps | DHCP: 7 perangkat
+2025-05-21 22:33:11,804 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:33:12,245 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:33:12,538 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:33:12,948 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:33:13,006 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:33:13,006 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:33:13,672 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:33:13,673 - __main__ - INFO - RX: 0.08 Mbps | TX: 0.43 Mbps | AVG RX: 0.14 Mbps | AVG TX: 0.83 Mbps | DHCP: 7 perangkat
+2025-05-21 22:33:13,718 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:33:13,969 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:33:14,336 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:33:14,360 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:33:14,708 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:33:14,708 - __main__ - INFO - RX: 0.08 Mbps | TX: 0.36 Mbps | AVG RX: 0.17 Mbps | AVG TX: 0.90 Mbps | DHCP: 7 perangkat
+2025-05-21 22:33:14,780 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:33:15,137 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:33:15,464 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:33:15,862 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:33:15,889 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:33:15,920 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:33:16,548 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:33:16,549 - __main__ - INFO - RX: 0.09 Mbps | TX: 0.43 Mbps | AVG RX: 0.14 Mbps | AVG TX: 0.83 Mbps | DHCP: 7 perangkat
+2025-05-21 22:33:16,595 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:33:16,848 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:33:17,201 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:33:17,226 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:33:17,592 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:33:17,592 - __main__ - INFO - RX: 0.08 Mbps | TX: 0.30 Mbps | AVG RX: 0.17 Mbps | AVG TX: 0.90 Mbps | DHCP: 7 perangkat
+2025-05-21 22:33:17,874 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:33:18,279 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:33:18,580 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:33:18,980 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:33:18,980 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:33:19,299 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:33:19,350 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:33:19,809 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:33:19,860 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:33:19,861 - __main__ - INFO - RX: 0.17 Mbps | TX: 0.36 Mbps | AVG RX: 0.14 Mbps | AVG TX: 0.83 Mbps | DHCP: 7 perangkat
+2025-05-21 22:33:20,166 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:33:20,192 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:33:20,583 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:33:20,584 - __main__ - INFO - RX: 0.08 Mbps | TX: 0.12 Mbps | AVG RX: 0.17 Mbps | AVG TX: 0.89 Mbps | DHCP: 7 perangkat
+2025-05-21 22:33:20,941 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:33:21,336 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:33:21,651 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:33:21,972 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:33:22,294 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:33:22,340 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:33:22,368 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:33:22,843 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:33:22,889 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:33:22,890 - __main__ - INFO - RX: 0.07 Mbps | TX: 0.22 Mbps | AVG RX: 0.14 Mbps | AVG TX: 0.82 Mbps | DHCP: 7 perangkat
+2025-05-21 22:33:23,198 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:33:23,223 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:33:23,627 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:33:23,628 - __main__ - INFO - RX: 0.13 Mbps | TX: 0.18 Mbps | AVG RX: 0.17 Mbps | AVG TX: 0.88 Mbps | DHCP: 7 perangkat
+2025-05-21 22:33:23,985 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:33:24,392 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:33:24,684 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:33:24,741 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:33:25,275 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:33:25,320 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:33:25,366 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:33:25,827 - paramiko.transport - INFO - Connected (version 2.0, client ROSSSH)
+2025-05-21 22:33:25,871 - paramiko.transport - INFO - Authentication (password) successful!
+2025-05-21 22:33:25,872 - __main__ - INFO - RX: 0.14 Mbps | TX: 0.30 Mbps | AVG RX: 0.14 Mbps | AVG TX: 0.82 Mbps | DHCP: 7 perangkat
